@@ -1,12 +1,12 @@
-# Ice Cream Sales Prediction 🍦📊
+# Ice Cream Sales Prediction
 
 Este projeto usa Machine Learning para prever vendas de sorvete com base na temperatura ambiente.
 
-## 📌 Objetivo
+## Objetivo
 
 Treinar um modelo preditivo de regressão para prever vendas de sorvete usando regressão linear simples, com rastreamento de experimentos via MLflow.
 
-## 📂 Estrutura
+## Estrutura
 
 - `inputs/dataset.csv`: Dados de exemplo
 - `arquives/`: Scripts de treinamento e predição
